@@ -10,5 +10,5 @@ def main():
       # вызвать нужную функцию
       break
 
-if __name__== "__main__":
+if __name__ == "__main__":
     main()
