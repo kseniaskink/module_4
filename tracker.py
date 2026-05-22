@@ -6,9 +6,9 @@ def save_books(books):
 
 def main():
     while True:
-      # показать меню
-      # вызвать нужную функцию
-      break
+        # показать меню
+        # вызвать нужную функцию
+        break
 
 if __name__ == "__main__":
     main()
